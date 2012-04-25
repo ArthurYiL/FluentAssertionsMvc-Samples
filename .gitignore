@@ -1,0 +1,15 @@
+[Bb]in
+[Oo]bj
+*.suo
+*.user
+test-results
+*.pidb
+*.userprefs
+*.pfx
+cmd.exe
+[Pp]ackage
+[Gg]it [Bb]ash.lnk
+[Ii]nore
+FluentAssertionsMvc.VisualState.xml
+[Rr]elease
+TestResult.xml
